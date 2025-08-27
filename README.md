@@ -14,7 +14,7 @@ Programming Assignments
 Alphabet Soup Problem
 
 In this project, we are tasked to arrange the letters of a word in alphabetical order.
-	1.	I started with creating a function alphabet_soup(word) that will take a string input.
+1.	I started with creating a function alphabet_soup(word) that will take a string input.
 ```python
 def alphabet_soup(word):
     # Create a list of characters from the string
@@ -24,18 +24,17 @@ def alphabet_soup(word):
     # Join the sorted list back into a string
     return ''.join(char_list)
 ```
-
-	2.	I tested the function with different words:
-
+2.	I tested the function with different words:
+```python
 # Test cases
 print(alphabet_soup("hello"))
 print(alphabet_soup("hacker"))
 
-✅ Output:
+ Output:
 
 ehllo
 acehkr
-
+```
 
 ⸻
 
