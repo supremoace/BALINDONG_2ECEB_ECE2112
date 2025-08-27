@@ -3,15 +3,15 @@
 This repository contains my solutions for Programming Assignment 1.
 
 ## Table of Contents
-Alphabet Soup Problem: 
+Alphabet Soup Problem: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/README.md#alphabet-soup-problem
 
-Emoticon Problem: 
+Emoticon Problem: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/README.md#emoticon-problem
 
-Unpacking Problem: 
+Unpacking Problem: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/README.md#unpacking-list-problem
 
 ## Programming Assignments
 
-PA1: 
+PA1: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112/blob/main/PA1.ipynb
 
 ### Programming Assignment 1
 #### Alphabet Soup Problem
