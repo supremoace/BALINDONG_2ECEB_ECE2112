@@ -15,7 +15,7 @@ Alphabet Soup Problem
 
 In this project, we are tasked to arrange the letters of a word in alphabetical order.
 	1.	I started with creating a function alphabet_soup(word) that will take a string input.
-
+```python
 def alphabet_soup(word):
     # Create a list of characters from the string
     char_list = list(word)
@@ -23,6 +23,7 @@ def alphabet_soup(word):
     char_list.sort()
     # Join the sorted list back into a string
     return ''.join(char_list)
+```
 
 	2.	I tested the function with different words:
 
